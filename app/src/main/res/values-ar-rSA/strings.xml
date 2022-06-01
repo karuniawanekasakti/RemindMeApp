@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RemindMe!</string>
+    <string name="action_settings">إعدادات</string>
+    <string name="no_to_dos">ليس لديك أي مهام</string>
+    <string name="title">عنوان</string>
+    <string name="remind_me">ذكرني</string>
+    <string name="choose_date">تاريخ</string>
+    <string name="choose_time">وقت</string>
+    <string name="remind_date_and_time">تم تعيين تذكير لـ٪ 1 $ s ،٪ 2 $ s٪ 3 $ s</string>
+    <string name="about">عن</string>
+    <string name="app_version">الإصدار:٪ 1 $ s</string>
+    <string name="todo_error">الرجاء إدخال مهمة</string>
+    <string name="remove">إزالة</string>
+    <string name="snooze">غفوة</string>
+    <string name="description">وصف</string>
+    <string name="night_mode_off_summary">الوضع الليلي متوقف</string>
+    <string name="night_mode_on_summary">الوضع الليلي قيد التشغيل</string>
+    <string name="night_mode">الوضع الليلي</string>
+    <string name="date_error_check_again">التاريخ الذي أدخلته في الماضي.</string>
+    <string name="date_reminder_default">اليوم</string>
+    <string name="done_label">منتهي</string>
+    <string name="made_by">من صنع التذكير</string>
+    <string name="contact_me">يمكنك الاتصال بي في</string>
+</resources>

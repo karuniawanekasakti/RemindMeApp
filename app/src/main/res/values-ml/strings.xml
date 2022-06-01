@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">മിനിമൽ</string>
+    <string name="app_name">RemindMe!</string>
     <string name="action_settings">ക്രമീകരണങ്ങൾ</string>
     <string name="no_to_dos">നിങ്ങൾക്ക് ഒന്നും ചെയ്യാനില്ല</string>
     <string name="title">തലക്കെട്ട്</string>
@@ -29,4 +29,6 @@
 
     <string name="snooze">സ്‌നൂസ്</string>
     <string name="remove">കളയുക</string>
+    <string name="todo_error">ഇവിടെ</string>
+    <string name="description">സ്‌നൂസ്</string>
 </resources>

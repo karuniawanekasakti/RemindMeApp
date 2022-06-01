@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Minimal</string>
+    <string name="app_name">RemindMe!</string>
     <string name="action_settings">Impostazioni</string>
     <string name="no_to_dos">Non ci sono cosa da fare</string>
     <string name="title">Titolo</string>
@@ -26,4 +26,6 @@
 
     <string name="snooze">Posticipa</string>
     <string name="remove">Rimuovi</string>
+    <string name="todo_error">Per favore, inserisci una cosa da fare</string>
+    <string name="description">Descrizione</string>
 </resources>

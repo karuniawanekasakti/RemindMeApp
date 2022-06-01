@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Payak</string>
+    <string name="app_name">RemindMe!</string>
     <string name="action_settings">Tagpo</string>
     <string name="no_to_dos">Walang mga gawain</string>
     <string name="title">Pamagat</string>
@@ -21,4 +21,5 @@
     <string name="snooze">Hilik</string>
     <string name="remove">Tanggalin</string>
     <string name="todo_error">Magpasok ng gawain</string>
+    <string name="description">Tapos na</string>
 </resources>

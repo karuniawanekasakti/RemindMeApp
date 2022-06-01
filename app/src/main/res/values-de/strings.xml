@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Minimal</string>
+    <string name="app_name">RemindMe!</string>
 
     <string name="action_settings">Einstellungen</string>
     <string name="no_to_dos">Du hast keine To Dos</string>
@@ -30,4 +30,6 @@
 
     <string name="snooze">Nickerchen</string>
     <string name="remove">Herausnehmen</string>
+    <string name="todo_error">Bitte geben Sie eine Aufgabe ein</string>
+    <string name="description">Beschreibung</string>
 </resources>

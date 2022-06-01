@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RemindMe!</string>
+    <string name="date_reminder_default">今日</string>
+    <string name="done_label">終わり</string>
+    <string name="made_by">リマインダーアップ製</string>
+    <string name="contact_me">あなたは私に連絡することができます</string>
+    <string name="app_version">バージョン：％1 $ s</string>
+    <string name="about">約</string>
+    <string name="remind_date_and_time">％1 $ s、％2 $ s％3$sに設定されたリマインダー</string>
+    <string name="choose_time">時間</string>
+    <string name="choose_date">日にち</string>
+    <string name="remind_me">私に思い出させる</string>
+    <string name="title">タイトル</string>
+    <string name="no_to_dos">やることはありません</string>
+    <string name="action_settings">設定</string>
+    <string name="todo_error">入力してください する</string>
+    <string name="remove">削除する</string>
+    <string name="snooze">スヌーズ</string>
+    <string name="description">説明</string>
+    <string name="night_mode_off_summary">ナイトモードはオフです</string>
+    <string name="night_mode_on_summary">ナイトモードがオンになっています</string>
+    <string name="night_mode">ナイトモード</string>
+    <string name="date_error_check_again">入力した日付は過去のものです。</string>
+</resources>

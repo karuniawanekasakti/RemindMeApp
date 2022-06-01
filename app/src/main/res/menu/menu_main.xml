@@ -17,4 +17,9 @@
         app:showAsAction="never"
         />
 
+    <item android:title="Language"
+        android:id="@+id/action_language"
+        app:showAsAction="never"
+        />
+
 </menu>

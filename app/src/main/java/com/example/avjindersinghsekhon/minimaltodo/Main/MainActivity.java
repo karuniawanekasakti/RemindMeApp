@@ -2,6 +2,7 @@ package com.example.avjindersinghsekhon.minimaltodo.Main;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.provider.Settings;
 import android.support.annotation.NonNull;
 import android.support.v4.app.Fragment;
 import android.support.v7.app.ActionBar;
@@ -68,6 +69,11 @@ public class MainActivity extends AppDefaultActivity {
             case R.id.preferences:
                 Intent intent = new Intent(this, SettingsActivity.class);
                 startActivity(intent);
+                return true;
+
+            case R.id.action_language:
+                Intent intent1 = new Intent(Settings.ACTION_LOCALE_SETTINGS);
+                startActivity(intent1);
                 return true;
 
             default:

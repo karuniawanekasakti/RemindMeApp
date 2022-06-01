@@ -6,7 +6,7 @@
         preserved.  This file is offered as-is, without any warranty.
     -->
 	
-    <string name="app_name">Minimal</string>
+    <string name="app_name">RemindMe!</string>
     <string name="action_settings">Paramètres</string>
     <string name="no_to_dos">Vous n\'avez aucun todo</string>
     <string name="title">Titre</string>
@@ -33,4 +33,6 @@
 
     <string name="snooze">Répéter</string>
     <string name="remove">Supprimer</string>
+    <string name="todo_error">Veuillez saisir une tâche</string>
+    <string name="description">La description</string>
 </resources>
