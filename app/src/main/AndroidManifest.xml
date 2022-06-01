@@ -53,10 +53,9 @@
             />
         <activity android:name="com.example.tugasakhir.remindmeapp.Settings.SettingsActivity"
             android:parentActivityName="com.example.tugasakhir.remindmeapp.Main.MainActivity"
-
             />
-
     </application>
+    <uses-permission android:name="android.permission.INTERNET"/>
 
 
 </manifest>
